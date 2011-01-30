@@ -1,0 +1,17 @@
+<benchmarks>
+    <benchmark>
+        <name>benchmark 1</name>
+        <description>This bechmark measures ...</description>
+        <command>./benchmark1 0 </command>
+    </benchmark>
+    <benchmark>
+        <name>benchmark 2</name>
+        <description>This bechmark measures ...</description>
+        <command>./benchmark2 0</command>
+    </benchmark>
+    <benchmark>
+        <name>benchmark 3</name>
+        <description>This benchmarks measures ...</description>
+        <command>./bechmark3 0</command>
+    </benchmark>
+</benchmarks>
